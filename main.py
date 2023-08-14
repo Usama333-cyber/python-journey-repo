@@ -1,5 +1,5 @@
-#!st Day of Python Coding
-#task 1:
+#1st Day of Python Coding
+#task 1;
 #print your age
 print("I am 21 years old")
 
